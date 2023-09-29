@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ZadanieAplikacja</string>
+    <string name="title_activity_powitanie_user">PowitanieUser</string>
+    <string name="title_activity_powitanie">Powitanie</string>
+</resources>
